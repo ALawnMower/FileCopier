@@ -1,0 +1,10 @@
+1) What is your name?
+2) What year were you born?
+3) Where were you born?
+4) What is your favorite color?
+5) What is your gender?
+6) What is your hair color?
+7) What is your eye color?
+8) How tall are you?
+9) Where do you live?
+10) What was your first school called?
